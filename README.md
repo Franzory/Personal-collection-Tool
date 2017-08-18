@@ -1,4 +1,4 @@
-# Personal-collection-Tool-
+# Personal-collection-Tool
 个人收藏（小工具、框架）<br/>
 图片压缩：https://tinypng.com/<br/>
 网站标准配色方案：http://colorhunt.co/<br/>
